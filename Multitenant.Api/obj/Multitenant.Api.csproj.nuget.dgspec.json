@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Multitenant.Api\\Multitenant.Api.csproj": {}
+    "C:\\Projects\\AspnetCore\\MultiTenant\\Multitenant.Api\\Multitenant.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Core\\Core.csproj": {
+    "C:\\Projects\\AspnetCore\\MultiTenant\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Projects\\AspnetCore\\MultiTenant\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\iammu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Core\\obj\\",
+        "projectPath": "C:\\Projects\\AspnetCore\\MultiTenant\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\jormo\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\AspnetCore\\MultiTenant\\Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\iammu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jormo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +57,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Projects\\AspnetCore\\MultiTenant\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projects\\AspnetCore\\MultiTenant\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\iammu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Infrastructure\\obj\\",
+        "projectPath": "C:\\Projects\\AspnetCore\\MultiTenant\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\jormo\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\AspnetCore\\MultiTenant\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\iammu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jormo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Core\\Core.csproj"
+              "C:\\Projects\\AspnetCore\\MultiTenant\\Core\\Core.csproj": {
+                "projectPath": "C:\\Projects\\AspnetCore\\MultiTenant\\Core\\Core.csproj"
               }
             }
           }
@@ -156,21 +162,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Multitenant.Api\\Multitenant.Api.csproj": {
+    "C:\\Projects\\AspnetCore\\MultiTenant\\Multitenant.Api\\Multitenant.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Multitenant.Api\\Multitenant.Api.csproj",
+        "projectUniqueName": "C:\\Projects\\AspnetCore\\MultiTenant\\Multitenant.Api\\Multitenant.Api.csproj",
         "projectName": "Multitenant.Api",
-        "projectPath": "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Multitenant.Api\\Multitenant.Api.csproj",
-        "packagesPath": "C:\\Users\\iammu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Multitenant.Api\\obj\\",
+        "projectPath": "C:\\Projects\\AspnetCore\\MultiTenant\\Multitenant.Api\\Multitenant.Api.csproj",
+        "packagesPath": "C:\\Users\\jormo\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\AspnetCore\\MultiTenant\\Multitenant.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\iammu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jormo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -184,8 +193,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\iammu\\source\\repos\\Multitenant.Api\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Projects\\AspnetCore\\MultiTenant\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Projects\\AspnetCore\\MultiTenant\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -221,12 +230,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.8, 5.0.8]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -235,7 +238,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.7.21379.14\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
